@@ -1,0 +1,1 @@
+This repo contains queries for 2 Datasets. Using these queries we explore the database throughout. These datasets are present in ElasticSearch. Be mindful, that most of the queries have the same execution statements, so to avoid redundancy they haven't been mentioned in the code files since they follow a same template
